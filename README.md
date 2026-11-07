@@ -70,6 +70,9 @@ This is the single most important item in this guide. **A bad SD card can brick 
 
 > ℹ️ **Note:** mibsolution.one sometimes has hosting outages. If the site is down, wait a day or two and try again. **Do not download firmware from random mirrors.**
 
+> ⚠️ **Update:** due to mibsolution.one being down for quite some time, I have made the update and patch files that I used available to download via **[GOOGLE DRIVE](https://drive.google.com/drive/folders/17FP7r-9lWcpqaOH0OJNspjjCRafT46xN?usp=sharing)**. 
+Please check your current software solution and **[mib-helper.com](https://mib-helper.com/)** to verify this version is applicable BEFORE installing.
+
 ---
 
 ## 3. Step 1: Check Your Firmware Compatibility
